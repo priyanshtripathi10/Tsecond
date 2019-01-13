@@ -1,0 +1,3617 @@
+b827ebf18950
+Socket successfully created
+key : RESULT = VART : 0.00 
+Socket connection established successfully 
+count =  1
+
+
+key : RESULT = WB : -3330.45 
+
+########## DG ############
+
+DG Status ==> 0
+BB =  8.16
+{'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'Genset_HZ': None, 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': None, 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': 0.0, 'FL': None, 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:01:12', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '03', 'ID': 'b827ebf18950', 'FF': None, 'SS': 0, 'Battery_Voltage': 0.0, 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 481
+
+
+DG_V =  13.04
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+AT_V= 13.01
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.13
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+DG_V =  13.00
+AT_V= 12.94
+count =  5
+
+
+key : RESULT = WH : 423.34 
+count =  6
+
+
+key : RESULT = VYB : 227.63 
+BB =  8.15
+count =  7
+
+
+key : RESULT = VBR : 227.16 
+DG_V =  12.96
+AT_V= 12.90
+count =  8
+
+
+key : RESULT = WT : 3330.75 
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.15
+DG_V =  13.01
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+AT_V= 12.95
+count =  11
+
+
+key : RESULT = WY : 0.00 
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+BB =  8.16
+DG_V =  13.01
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+AT_V= 12.97
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.02 
+BB =  8.15
+count =  15
+
+
+key : RESULT = VLLA : 151.66 
+DG_V =  13.01
+{'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'Genset_HZ': None, 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.97', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:02:10', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'FF': None, 'SS': 0, 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 491
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 13.06
+count =  16
+
+
+key : RESULT = VB : 227.67 
+count =  17
+
+
+key : RESULT = VAB : 3335.64 
+BB =  8.17
+count =  18
+
+
+DG_V =  13.00
+key : RESULT = CB : 14.69 
+AT_V= 12.97
+count =  19
+
+
+key : RESULT = VR : 0.00 
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+BB =  8.15
+DG_V =  13.05
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+AT_V= 12.95
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.15
+count =  23
+
+
+key : RESULT = FREQ : 47.61 
+DG_V =  13.05
+AT_V= 12.95
+count =  24
+
+
+key : RESULT = VAT : 3337.54 
+count =  25
+
+
+key : RESULT = CT : 4.91 
+BB =  8.15
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+DG_V =  13.05
+AT_V= 12.96
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+count =  28
+
+
+key : RESULT = CY : 0.00 
+BB =  8.13
+DG_V =  13.00
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+AT_V= 12.91
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+{'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'Genset_HZ': None, 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.91', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:03:10', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'FF': None, 'SS': 0, 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 491
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.69', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '423.34', 'VYB': '227.63', 'VBR': '227.16', 'WT': '3330.75', 'Genset_HZ': '47.61', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3335.64', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.67', 'Genset_V1': '0.00', 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.02', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': '4.91', 'time': '00:03:13', 'KW1': '0.00', 'KW3': '-3330.45', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3337.54', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+BB =  8.17
+DG_V =  13.06
+count =  1
+
+
+key : RESULT = WB : -3342.55 
+AT_V= 12.99
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.17
+count =  3
+
+
+key : RESULT = CR : 0.00 
+DG_V =  13.00
+AT_V= 13.00
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+count =  5
+
+
+key : RESULT = WH : 423.46 
+BB =  8.17
+count =  6
+
+
+key : RESULT = VYB : 227.74 
+DG_V =  13.01
+AT_V= 12.94
+count =  7
+
+
+key : RESULT = VBR : 227.26 
+count =  8
+
+
+key : RESULT = WT : 3331.27 
+BB =  8.14
+DG_V =  12.96
+count =  9
+
+
+key : RESULT = WR : 0.00 
+AT_V= 12.88
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.13
+count =  11
+
+
+key : RESULT = WY : 0.00 
+DG_V =  12.99
+AT_V= 12.96
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+BB =  8.11
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.05 
+DG_V =  12.96
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.34', 'VYB': '227.63', 'VBR': '227.16', 'WT': '3330.75', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.96', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.02', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:04:12', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3337.54', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.96', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 13.03
+count =  15
+
+
+key : RESULT = VLLA : 151.66 
+count =  16
+
+
+key : RESULT = VB : 227.59 
+BB =  8.13
+DG_V =  12.96
+count =  17
+
+
+key : RESULT = VAB : 3341.13 
+AT_V= 12.94
+count =  18
+
+
+key : RESULT = CB : 14.72 
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.13
+DG_V =  12.96
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+AT_V= 13.01
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.17
+count =  22
+
+
+key : RESULT = VY : 0.00 
+DG_V =  12.96
+AT_V= 12.92
+count =  23
+
+
+key : RESULT = FREQ : 47.63 
+count =  24
+
+
+key : RESULT = VAT : 3343.45 
+BB =  8.17
+count =  25
+
+
+key : RESULT = CT : 4.91 
+DG_V =  13.10
+AT_V= 12.96
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+BB =  8.14
+DG_V =  13.01
+count =  28
+
+
+key : RESULT = CY : 0.00 
+AT_V= 12.90
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.34', 'VYB': '227.63', 'VBR': '227.16', 'WT': '3330.75', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.14', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.02', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:05:12', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3337.54', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.24
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+DG_V =  13.03
+AT_V= 12.96
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.72', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '423.46', 'VYB': '227.74', 'VBR': '227.26', 'WT': '3331.27', 'Genset_HZ': '47.63', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3341.13', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.59', 'Genset_V1': '0.00', 'BB': '8.14', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.05', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': '4.91', 'time': '00:05:19', 'KW1': '0.00', 'KW3': '-3342.55', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3343.45', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+count =  1
+
+
+key : RESULT = WB : -3340.88 
+BB =  8.13
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+DG_V =  13.00
+AT_V= 12.95
+count =  3
+
+
+key : RESULT = CR : 0.00 
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.14
+DG_V =  13.04
+count =  5
+
+
+key : RESULT = WH : 423.58 
+AT_V= 12.91
+count =  6
+
+
+key : RESULT = VYB : 227.72 
+count =  7
+
+
+key : RESULT = VBR : 227.21 
+BB =  8.13
+DG_V =  12.94
+count =  8
+
+
+key : RESULT = WT : 3338.87 
+AT_V= 12.90
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.13
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+DG_V =  13.03
+AT_V= 12.94
+count =  11
+
+
+key : RESULT = WY : 0.00 
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+BB =  8.10
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+DG_V =  12.97
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.46', 'VYB': '227.74', 'VBR': '227.26', 'WT': '3331.27', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.94', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.10', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.05', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:06:13', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3343.45', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 12.91
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.09 
+count =  15
+
+
+key : RESULT = VLLA : 151.67 
+BB =  8.15
+DG_V =  13.01
+count =  16
+
+
+key : RESULT = VB : 227.65 
+AT_V= 12.91
+count =  17
+
+
+key : RESULT = VAB : 3341.20 
+BB =  8.13
+count =  18
+
+
+key : RESULT = CB : 14.80 
+DG_V =  12.95
+AT_V= 12.90
+count =  19
+
+
+key : RESULT = VR : 0.00 
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+BB =  8.13
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+DG_V =  13.03
+AT_V= 12.96
+count =  22
+
+
+key : RESULT = VY : 0.00 
+count =  23
+
+
+key : RESULT = FREQ : 47.57 
+BB =  8.11
+DG_V =  12.95
+count =  24
+
+
+key : RESULT = VAT : 3356.67 
+AT_V= 13.04
+count =  25
+
+
+key : RESULT = CT : 4.91 
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+BB =  8.17
+DG_V =  13.12
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+AT_V= 12.91
+count =  28
+
+
+key : RESULT = CY : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.46', 'VYB': '227.74', 'VBR': '227.26', 'WT': '3331.27', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.91', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.05', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:07:14', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3343.45', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.12', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.17
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+DG_V =  13.03
+AT_V= 12.92
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.80', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '423.58', 'VYB': '227.72', 'VBR': '227.21', 'WT': '3338.87', 'Genset_HZ': '47.57', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3341.20', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.65', 'Genset_V1': '0.00', 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.09', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': '4.91', 'time': '00:07:25', 'KW1': '0.00', 'KW3': '-3340.88', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3356.67', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.12', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+BB =  8.22
+count =  1
+
+
+DG_V =  13.03
+key : RESULT = WB : -3341.12 
+AT_V= 12.95
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.13
+DG_V =  13.08
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+AT_V= 12.90
+count =  5
+
+
+key : RESULT = WH : 423.69 
+BB =  8.16
+count =  6
+
+
+key : RESULT = VYB : 227.70 
+DG_V =  12.95
+AT_V= 12.97
+count =  7
+
+
+key : RESULT = VBR : 227.19 
+count =  8
+
+
+key : RESULT = WT : 3341.29 
+BB =  8.17
+count =  9
+
+
+key : RESULT = WR : 0.00 
+DG_V =  12.96
+AT_V= 12.91
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+count =  11
+
+
+key : RESULT = WY : 0.00 
+BB =  8.15
+DG_V =  12.97
+count =  12
+
+
+key : RESULT = VLNA : 75.90 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.58', 'VYB': '227.72', 'VBR': '227.21', 'WT': '3338.87', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.91', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.09', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:08:14', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3356.67', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 12.95
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.12 
+BB =  8.13
+DG_V =  13.01
+count =  15
+
+
+key : RESULT = VLLA : 151.63 
+AT_V= 13.00
+count =  16
+
+
+key : RESULT = VB : 227.68 
+BB =  8.13
+count =  17
+
+
+key : RESULT = VAB : 3341.91 
+DG_V =  12.96
+AT_V= 12.99
+count =  18
+
+
+key : RESULT = CB : 14.70 
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.14
+DG_V =  13.05
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+AT_V= 12.90
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.15
+DG_V =  13.04
+count =  23
+
+
+key : RESULT = FREQ : 47.53 
+AT_V= 12.91
+count =  24
+
+
+key : RESULT = VAT : 3339.71 
+BB =  8.13
+count =  25
+
+
+key : RESULT = CT : 4.91 
+DG_V =  13.00
+AT_V= 12.92
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.58', 'VYB': '227.72', 'VBR': '227.21', 'WT': '3338.87', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.92', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.09', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:09:15', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3356.67', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.26
+count =  28
+
+
+key : RESULT = CY : 0.00 
+DG_V =  13.01
+AT_V= 12.90
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+BB =  8.13
+DG_V =  13.00
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.70', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '423.69', 'VYB': '227.70', 'VBR': '227.19', 'WT': '3341.29', 'Genset_HZ': '47.53', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3341.91', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.68', 'Genset_V1': '0.00', 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.12', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': '4.91', 'time': '00:09:31', 'KW1': '0.00', 'KW3': '-3341.12', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3339.71', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+AT_V= 12.95
+count =  1
+
+
+key : RESULT = WB : -3339.98 
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.12
+DG_V =  12.99
+count =  3
+
+
+key : RESULT = CR : 0.00 
+AT_V= 12.97
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.14
+count =  5
+
+
+key : RESULT = WH : 423.81 
+DG_V =  13.03
+AT_V= 12.91
+count =  6
+
+
+key : RESULT = VYB : 227.69 
+count =  7
+
+
+key : RESULT = VBR : 227.13 
+BB =  8.17
+DG_V =  12.99
+count =  8
+
+
+key : RESULT = WT : 3342.77 
+AT_V= 12.81
+count =  9
+
+
+key : RESULT = WR : 0.00 
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.11
+DG_V =  12.96
+count =  11
+
+
+key : RESULT = WY : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.69', 'VYB': '227.70', 'VBR': '227.19', 'WT': '3341.29', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.81', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.12', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:10:16', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3339.71', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '12.96', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 13.00
+count =  12
+
+
+key : RESULT = VLNA : 75.91 
+BB =  8.16
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+DG_V =  12.97
+AT_V= 12.94
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.16 
+count =  15
+
+
+key : RESULT = VLLA : 151.71 
+BB =  8.13
+count =  16
+
+
+key : RESULT = VB : 227.71 
+DG_V =  12.97
+AT_V= 12.95
+count =  17
+
+
+key : RESULT = VAB : 3354.40 
+count =  18
+
+
+key : RESULT = CB : 14.77 
+BB =  8.18
+DG_V =  12.99
+count =  19
+
+
+key : RESULT = VR : 0.00 
+AT_V= 12.91
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.13
+DG_V =  13.08
+count =  22
+
+
+key : RESULT = VY : 0.00 
+AT_V= 12.90
+count =  23
+
+
+key : RESULT = FREQ : 47.60 
+BB =  8.11
+count =  24
+
+
+key : RESULT = VAT : 3338.42 
+DG_V =  13.00
+AT_V= 12.90
+count =  25
+
+
+key : RESULT = CT : 4.93 
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.69', 'VYB': '227.70', 'VBR': '227.19', 'WT': '3341.29', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.12', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:11:16', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3339.71', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.22
+DG_V =  13.04
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+AT_V= 12.97
+count =  28
+
+
+key : RESULT = CY : 0.00 
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.13
+DG_V =  12.99
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+AT_V= 12.85
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.77', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '423.81', 'VYB': '227.69', 'VBR': '227.13', 'WT': '3342.77', 'Genset_HZ': '47.60', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3354.40', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.71', 'Genset_V1': '0.00', 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.16', 'VLLA': '151.71', 'Date': '2018-12-20', 'Average_AMPS': '4.93', 'time': '00:11:37', 'KW1': '0.00', 'KW3': '-3339.98', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3338.42', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+BB =  8.16
+count =  1
+
+
+key : RESULT = WB : -3336.22 
+DG_V =  13.03
+AT_V= 12.94
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.13
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+DG_V =  12.94
+AT_V= 12.95
+count =  5
+
+
+key : RESULT = WH : 423.93 
+count =  6
+
+
+key : RESULT = VYB : 227.66 
+BB =  8.13
+DG_V =  13.03
+count =  7
+
+
+key : RESULT = VBR : 227.17 
+AT_V= 12.96
+count =  8
+
+
+key : RESULT = WT : 3339.65 
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.12
+DG_V =  13.00
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+AT_V= 12.95
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.81', 'VYB': '227.69', 'VBR': '227.13', 'WT': '3342.77', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.96', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.12', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.16', 'VLLA': '151.71', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:12:17', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3338.42', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  11
+
+
+ENERGY METER READING ERROR :  'ModbusIOException' object has no attribute 'registers'
+BB =  8.13
+DG_V =  13.01
+AT_V= 12.91
+BB =  8.16
+DG_V =  12.99
+key : RESULT = VART : 0.00 
+AT_V= 13.01
+count =  1
+
+
+key : RESULT = WB : -3356.99 
+count =  2
+
+
+BB =  8.15
+key : RESULT = VARR : 0.00 
+DG_V =  13.05
+AT_V= 12.95
+count =  3
+
+
+key : RESULT = CR : 0.00 
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.14
+count =  5
+
+
+key : RESULT = WH : 423.98 
+DG_V =  12.97
+AT_V= 12.88
+count =  6
+
+
+key : RESULT = VYB : 227.71 
+count =  7
+
+
+key : RESULT = VBR : 227.24 
+BB =  8.13
+DG_V =  12.96
+count =  8
+
+
+key : RESULT = WT : 3349.56 
+AT_V= 12.96
+count =  9
+
+
+key : RESULT = WR : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.81', 'VYB': '227.69', 'VBR': '227.13', 'WT': '3342.77', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.96', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.16', 'VLLA': '151.71', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:13:18', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3338.42', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '12.96', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.15
+DG_V =  13.01
+count =  11
+
+
+key : RESULT = WY : 0.00 
+AT_V= 12.97
+count =  12
+
+
+key : RESULT = VLNA : 75.89 
+BB =  8.18
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+DG_V =  13.00
+AT_V= 12.90
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.21 
+count =  15
+
+
+key : RESULT = VLLA : 151.67 
+BB =  8.15
+count =  16
+
+
+key : RESULT = VB : 227.61 
+DG_V =  13.03
+AT_V= 12.96
+count =  17
+
+
+key : RESULT = VAB : 3348.49 
+count =  18
+
+
+key : RESULT = CB : 14.80 
+BB =  8.20
+DG_V =  13.04
+count =  19
+
+
+key : RESULT = VR : 0.00 
+AT_V= 12.91
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+count =  21
+
+
+BB =  8.15
+key : RESULT = VAR : 0.00 
+DG_V =  12.97
+AT_V= 12.90
+count =  22
+
+
+key : RESULT = VY : 0.00 
+count =  23
+
+
+key : RESULT = FREQ : 47.52 
+BB =  8.23
+count =  24
+
+
+key : RESULT = VAT : 3345.76 
+DG_V =  12.92
+AT_V= 13.05
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.81', 'VYB': '227.69', 'VBR': '227.13', 'WT': '3342.77', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.23', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.16', 'VLLA': '151.71', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:14:18', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3338.42', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '12.92', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  25
+
+
+key : RESULT = CT : 4.93 
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+BB =  8.19
+DG_V =  12.99
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+AT_V= 12.92
+count =  28
+
+
+key : RESULT = CY : 0.00 
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.18
+DG_V =  13.00
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+AT_V= 12.97
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.80', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '423.98', 'VYB': '227.71', 'VBR': '227.24', 'WT': '3349.56', 'Genset_HZ': '47.52', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3348.49', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.61', 'Genset_V1': '0.00', 'BB': '8.23', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.21', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': '4.93', 'time': '00:14:44', 'KW1': '0.00', 'KW3': '-3356.99', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3345.76', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.92', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+BB =  8.22
+count =  1
+
+
+key : RESULT = WB : -3355.99 
+DG_V =  12.97
+AT_V= 12.97
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.18
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+DG_V =  12.99
+AT_V= 12.94
+count =  5
+
+
+key : RESULT = WH : 424.10 
+count =  6
+
+
+key : RESULT = VYB : 227.68 
+BB =  8.22
+DG_V =  12.95
+count =  7
+
+
+key : RESULT = VBR : 227.19 
+AT_V= 12.99
+count =  8
+
+
+key : RESULT = WT : 3329.99 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.98', 'VYB': '227.71', 'VBR': '227.24', 'WT': '3349.56', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.99', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.22', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.21', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:15:19', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3345.76', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.95', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  9
+
+
+BB =  8.19
+key : RESULT = WR : 0.00 
+DG_V =  13.01
+AT_V= 12.91
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+count =  11
+
+
+key : RESULT = WY : 0.00 
+BB =  8.19
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+DG_V =  12.96
+AT_V= 13.00
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.24 
+BB =  8.18
+DG_V =  12.91
+count =  15
+
+
+key : RESULT = VLLA : 151.60 
+AT_V= 12.95
+count =  16
+
+
+key : RESULT = VB : 227.61 
+count =  17
+
+
+key : RESULT = VAB : 3344.21 
+BB =  8.15
+DG_V =  12.99
+count =  18
+
+
+key : RESULT = CB : 14.77 
+AT_V= 12.86
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.15
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+DG_V =  13.05
+AT_V= 12.91
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.13
+count =  23
+
+
+key : RESULT = FREQ : 47.56 
+DG_V =  12.92
+AT_V= 12.92
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '423.98', 'VYB': '227.71', 'VBR': '227.24', 'WT': '3349.56', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.92', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.21', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:16:20', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3345.76', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.92', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  24
+
+
+key : RESULT = VAT : 3355.26 
+count =  25
+
+
+key : RESULT = CT : 4.92 
+BB =  8.15
+DG_V =  13.05
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+AT_V= 12.90
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+count =  28
+
+
+BB =  8.17
+key : RESULT = CY : 0.00 
+DG_V =  13.05
+AT_V= 12.90
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+BB =  8.17
+flag updated ....
+
+key : RESULT = VART : 0.00 
+DG_V =  12.99
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.77', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.10', 'VYB': '227.68', 'VBR': '227.19', 'WT': '3329.99', 'Genset_HZ': '47.56', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3344.21', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.61', 'Genset_V1': '0.00', 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.24', 'VLLA': '151.60', 'Date': '2018-12-20', 'Average_AMPS': '4.92', 'time': '00:16:50', 'KW1': '0.00', 'KW3': '-3355.99', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3355.26', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.92', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+AT_V= 13.00
+count =  1
+
+
+key : RESULT = WB : -3350.08 
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.16
+DG_V =  13.03
+count =  3
+
+
+key : RESULT = CR : 0.00 
+AT_V= 13.05
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+count =  5
+
+
+key : RESULT = WH : 424.22 
+BB =  8.17
+DG_V =  13.00
+count =  6
+
+
+key : RESULT = VYB : 227.69 
+AT_V= 12.90
+count =  7
+
+
+key : RESULT = VBR : 227.24 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.10', 'VYB': '227.68', 'VBR': '227.19', 'WT': '3329.99', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.24', 'VLLA': '151.60', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:17:21', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3355.26', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.24
+count =  8
+
+
+key : RESULT = WT : 3365.75 
+DG_V =  13.04
+AT_V= 13.01
+count =  9
+
+
+key : RESULT = WR : 0.00 
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.15
+count =  11
+
+
+key : RESULT = WY : 0.00 
+DG_V =  13.06
+AT_V= 13.00
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+BB =  8.17
+DG_V =  13.03
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.28 
+AT_V= 12.99
+count =  15
+
+
+key : RESULT = VLLA : 151.64 
+BB =  8.15
+count =  16
+
+
+key : RESULT = VB : 227.63 
+DG_V =  13.00
+AT_V= 12.94
+count =  17
+
+
+key : RESULT = VAB : 3351.42 
+count =  18
+
+
+key : RESULT = CB : 14.70 
+BB =  8.11
+count =  19
+
+
+key : RESULT = VR : 0.00 
+DG_V =  13.00
+AT_V= 12.92
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.15
+DG_V =  13.01
+count =  22
+
+
+key : RESULT = VY : 0.00 
+AT_V= 13.12
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.10', 'VYB': '227.68', 'VBR': '227.19', 'WT': '3329.99', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '13.12', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.24', 'VLLA': '151.60', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:18:22', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3355.26', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  23
+
+
+key : RESULT = FREQ : 47.60 
+count =  24
+
+
+key : RESULT = VAT : 3362.54 
+BB =  8.15
+DG_V =  13.03
+count =  25
+
+
+key : RESULT = CT : 4.93 
+AT_V= 13.01
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+BB =  8.15
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+DG_V =  12.99
+AT_V= 13.01
+count =  28
+
+
+key : RESULT = CY : 0.00 
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.17
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+DG_V =  12.92
+AT_V= 12.99
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.70', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.22', 'VYB': '227.69', 'VBR': '227.24', 'WT': '3365.75', 'Genset_HZ': '47.60', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3351.42', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.63', 'Genset_V1': '0.00', 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.28', 'VLLA': '151.64', 'Date': '2018-12-20', 'Average_AMPS': '4.93', 'time': '00:18:56', 'KW1': '0.00', 'KW3': '-3350.08', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3362.54', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+count =  1
+
+
+key : RESULT = WB : -3348.43 
+BB =  8.14
+DG_V =  12.99
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+AT_V= 12.91
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.15
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+DG_V =  12.99
+AT_V= 12.94
+count =  5
+
+
+key : RESULT = WH : 424.34 
+count =  6
+
+
+key : RESULT = VYB : 227.60 
+BB =  8.16
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.22', 'VYB': '227.69', 'VBR': '227.24', 'WT': '3365.75', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.94', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.28', 'VLLA': '151.64', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:19:22', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3362.54', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.99', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  7
+
+
+key : RESULT = VBR : 227.11 
+DG_V =  13.05
+AT_V= 13.01
+count =  8
+
+
+key : RESULT = WT : 3351.47 
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.15
+DG_V =  13.01
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+AT_V= 12.85
+count =  11
+
+
+key : RESULT = WY : 0.00 
+count =  12
+
+
+key : RESULT = VLNA : 75.89 
+BB =  8.15
+DG_V =  12.99
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+AT_V= 12.94
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.31 
+BB =  8.14
+count =  15
+
+
+key : RESULT = VLLA : 151.65 
+DG_V =  12.99
+AT_V= 13.06
+count =  16
+
+
+key : RESULT = VB : 227.65 
+count =  17
+
+
+key : RESULT = VAB : 3337.52 
+BB =  8.16
+count =  18
+
+
+key : RESULT = CB : 14.71 
+DG_V =  12.95
+AT_V= 12.99
+count =  19
+
+
+key : RESULT = VR : 0.00 
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+BB =  8.20
+DG_V =  12.96
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+AT_V= 12.95
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.22', 'VYB': '227.69', 'VBR': '227.24', 'WT': '3365.75', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.95', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.20', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.28', 'VLLA': '151.64', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:20:24', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3362.54', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.96', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.15
+count =  23
+
+
+key : RESULT = FREQ : 47.61 
+DG_V =  13.03
+AT_V= 12.90
+count =  24
+
+
+key : RESULT = VAT : 3349.69 
+count =  25
+
+
+key : RESULT = CT : 4.92 
+BB =  8.16
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+DG_V =  12.99
+AT_V= 12.95
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+count =  28
+
+
+key : RESULT = CY : 0.00 
+BB =  8.14
+DG_V =  12.97
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+AT_V= 12.90
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+flag updated ....
+
+key : RESULT = VART : 0.00 
+BB =  8.15
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.71', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.34', 'VYB': '227.60', 'VBR': '227.11', 'WT': '3351.47', 'Genset_HZ': '47.61', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3337.52', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.65', 'Genset_V1': '0.00', 'BB': '8.20', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.31', 'VLLA': '151.65', 'Date': '2018-12-20', 'Average_AMPS': '4.92', 'time': '00:21:01', 'KW1': '0.00', 'KW3': '-3348.43', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3349.69', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.96', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+DG_V =  13.04
+count =  1
+
+
+key : RESULT = WB : -3329.05 
+AT_V= 12.95
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.13
+count =  3
+
+
+key : RESULT = CR : 0.00 
+DG_V =  13.01
+AT_V= 12.97
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+count =  5
+
+
+key : RESULT = WH : 424.45 
+BB =  8.15
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.34', 'VYB': '227.60', 'VBR': '227.11', 'WT': '3351.47', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.97', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.31', 'VLLA': '151.65', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:21:24', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3349.69', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  6
+
+
+key : RESULT = VYB : 227.68 
+DG_V =  13.00
+AT_V= 12.95
+count =  7
+
+
+key : RESULT = VBR : 227.23 
+count =  8
+
+
+key : RESULT = WT : 3343.76 
+BB =  8.18
+DG_V =  12.94
+count =  9
+
+
+key : RESULT = WR : 0.00 
+AT_V= 12.85
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.13
+count =  11
+
+
+key : RESULT = WY : 0.00 
+DG_V =  12.97
+AT_V= 12.90
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+BB =  8.17
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.35 
+DG_V =  12.96
+AT_V= 12.96
+count =  15
+
+
+key : RESULT = VLLA : 151.63 
+count =  16
+
+
+key : RESULT = VB : 227.64 
+BB =  8.14
+DG_V =  12.96
+count =  17
+
+
+key : RESULT = VAB : 3356.87 
+AT_V= 12.99
+count =  18
+
+
+key : RESULT = CB : 14.79 
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.11
+DG_V =  12.94
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+AT_V= 12.95
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.34', 'VYB': '227.60', 'VBR': '227.11', 'WT': '3351.47', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.95', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.31', 'VLLA': '151.65', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:22:24', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3349.69', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.94', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.15
+count =  22
+
+
+key : RESULT = VY : 0.00 
+DG_V =  12.97
+AT_V= 12.91
+count =  23
+
+
+key : RESULT = FREQ : 47.60 
+count =  24
+
+
+key : RESULT = VAT : 3342.14 
+BB =  8.16
+count =  25
+
+
+key : RESULT = CT : 4.93 
+DG_V =  13.00
+AT_V= 12.96
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+BB =  8.17
+DG_V =  13.01
+count =  28
+
+
+key : RESULT = CY : 0.00 
+AT_V= 12.90
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.13
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+DG_V =  13.00
+AT_V= 12.94
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.79', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.45', 'VYB': '227.68', 'VBR': '227.23', 'WT': '3343.76', 'Genset_HZ': '47.60', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3356.87', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.64', 'Genset_V1': '0.00', 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.35', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': '4.93', 'time': '00:23:07', 'KW1': '0.00', 'KW3': '-3329.05', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3342.14', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '12.94', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+count =  1
+
+
+key : RESULT = WB : -3344.25 
+BB =  8.17
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+DG_V =  13.01
+AT_V= 12.94
+count =  3
+
+
+key : RESULT = CR : 0.00 
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.15
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.45', 'VYB': '227.68', 'VBR': '227.23', 'WT': '3343.76', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.94', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.35', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:23:26', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3342.14', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+DG_V =  13.03
+count =  5
+
+
+key : RESULT = WH : 424.57 
+AT_V= 12.96
+count =  6
+
+
+key : RESULT = VYB : 227.69 
+count =  7
+
+
+key : RESULT = VBR : 227.23 
+BB =  8.13
+DG_V =  12.97
+count =  8
+
+
+key : RESULT = WT : 3337.04 
+AT_V= 12.92
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.13
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+DG_V =  12.97
+AT_V= 12.86
+count =  11
+
+
+key : RESULT = WY : 0.00 
+count =  12
+
+
+key : RESULT = VLNA : 75.87 
+BB =  8.11
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+DG_V =  12.97
+AT_V= 12.94
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.38 
+count =  15
+
+
+key : RESULT = VLLA : 151.68 
+BB =  8.14
+DG_V =  12.96
+count =  16
+
+
+key : RESULT = VB : 227.66 
+AT_V= 12.94
+count =  17
+
+
+key : RESULT = VAB : 3359.77 
+BB =  8.15
+count =  18
+
+
+key : RESULT = CB : 14.80 
+DG_V =  13.01
+AT_V= 12.90
+count =  19
+
+
+key : RESULT = VR : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.45', 'VYB': '227.68', 'VBR': '227.23', 'WT': '3343.76', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.35', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:24:27', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3342.14', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+BB =  8.18
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+DG_V =  12.97
+AT_V= 12.97
+count =  22
+
+
+key : RESULT = VY : 0.00 
+count =  23
+
+
+key : RESULT = FREQ : 47.54 
+BB =  8.14
+DG_V =  12.96
+count =  24
+
+
+key : RESULT = VAT : 3346.46 
+AT_V= 12.92
+count =  25
+
+
+key : RESULT = CT : 4.95 
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+BB =  8.16
+DG_V =  12.96
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+AT_V= 13.01
+count =  28
+
+
+key : RESULT = CY : 0.00 
+BB =  8.15
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+DG_V =  12.97
+AT_V= 12.95
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.80', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.57', 'VYB': '227.69', 'VBR': '227.23', 'WT': '3337.04', 'Genset_HZ': '47.54', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3359.77', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.66', 'Genset_V1': '0.00', 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.38', 'VLLA': '151.68', 'Date': '2018-12-20', 'Average_AMPS': '4.95', 'time': '00:25:13', 'KW1': '0.00', 'KW3': '-3344.25', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3346.46', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+BB =  8.17
+count =  1
+
+
+key : RESULT = WB : -3350.62 
+DG_V =  13.01
+AT_V= 12.95
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.11
+DG_V =  13.00
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.57', 'VYB': '227.69', 'VBR': '227.23', 'WT': '3337.04', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.95', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.38', 'VLLA': '151.68', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:25:28', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3346.46', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 12.95
+count =  5
+
+
+key : RESULT = WH : 424.69 
+BB =  8.15
+count =  6
+
+
+key : RESULT = VYB : 227.73 
+DG_V =  12.91
+AT_V= 12.90
+count =  7
+
+
+key : RESULT = VBR : 227.22 
+count =  8
+
+
+key : RESULT = WT : 3367.72 
+BB =  8.17
+count =  9
+
+
+key : RESULT = WR : 0.00 
+DG_V =  12.99
+AT_V= 12.96
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+count =  11
+
+
+key : RESULT = WY : 0.00 
+BB =  8.12
+DG_V =  12.97
+count =  12
+
+
+key : RESULT = VLNA : 75.86 
+AT_V= 12.96
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.42 
+BB =  8.15
+DG_V =  12.99
+count =  15
+
+
+key : RESULT = VLLA : 151.57 
+AT_V= 12.95
+count =  16
+
+
+key : RESULT = VB : 227.47 
+BB =  8.17
+count =  17
+
+
+key : RESULT = VAB : 3347.88 
+DG_V =  12.97
+AT_V= 12.94
+count =  18
+
+
+key : RESULT = CB : 14.82 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.57', 'VYB': '227.69', 'VBR': '227.23', 'WT': '3337.04', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.94', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.38', 'VLLA': '151.68', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:26:30', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3346.46', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.17
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+DG_V =  13.04
+AT_V= 13.00
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.17
+DG_V =  12.94
+count =  23
+
+
+key : RESULT = FREQ : 47.55 
+AT_V= 12.99
+count =  24
+
+
+key : RESULT = VAT : 3359.44 
+BB =  8.16
+count =  25
+
+
+key : RESULT = CT : 4.93 
+DG_V =  12.95
+AT_V= 12.95
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+BB =  8.11
+count =  28
+
+
+key : RESULT = CY : 0.00 
+DG_V =  12.97
+AT_V= 12.95
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+BB =  8.14
+DG_V =  12.95
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.82', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.69', 'VYB': '227.73', 'VBR': '227.22', 'WT': '3367.72', 'Genset_HZ': '47.55', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3347.88', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.47', 'Genset_V1': '0.00', 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.42', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': '4.93', 'time': '00:27:19', 'KW1': '0.00', 'KW3': '-3350.62', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3359.44', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.86', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+AT_V= 12.95
+count =  1
+
+
+key : RESULT = WB : -3354.77 
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.15
+DG_V =  12.97
+count =  3
+
+
+key : RESULT = CR : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.69', 'VYB': '227.73', 'VBR': '227.22', 'WT': '3367.72', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.95', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.42', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:27:30', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3359.44', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.86', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+AT_V= 12.94
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.15
+count =  5
+
+
+key : RESULT = WH : 424.81 
+DG_V =  13.00
+AT_V= 12.94
+count =  6
+
+
+key : RESULT = VYB : 227.74 
+count =  7
+
+
+key : RESULT = VBR : 227.25 
+BB =  8.15
+count =  8
+
+
+key : RESULT = WT : 3357.32 
+DG_V =  12.99
+AT_V= 12.97
+count =  9
+
+
+key : RESULT = WR : 0.00 
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.11
+DG_V =  12.95
+count =  11
+
+
+key : RESULT = WY : 0.00 
+AT_V= 12.94
+count =  12
+
+
+key : RESULT = VLNA : 75.89 
+BB =  8.16
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+DG_V =  12.94
+AT_V= 12.90
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.45 
+count =  15
+
+
+key : RESULT = VLLA : 151.57 
+BB =  8.17
+count =  16
+
+
+key : RESULT = VB : 227.55 
+DG_V =  12.97
+AT_V= 12.90
+count =  17
+
+
+key : RESULT = VAB : 3361.33 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.69', 'VYB': '227.73', 'VBR': '227.22', 'WT': '3367.72', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.42', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:28:31', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3359.44', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.86', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  18
+
+
+key : RESULT = CB : 14.90 
+BB =  8.18
+DG_V =  13.03
+count =  19
+
+
+key : RESULT = VR : 0.00 
+AT_V= 12.92
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.13
+DG_V =  13.10
+count =  22
+
+
+key : RESULT = VY : 0.00 
+AT_V= 12.94
+count =  23
+
+
+key : RESULT = FREQ : 47.54 
+BB =  8.13
+count =  24
+
+
+key : RESULT = VAT : 3337.80 
+DG_V =  13.00
+AT_V= 12.97
+count =  25
+
+
+key : RESULT = CT : 4.94 
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+BB =  8.15
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+DG_V =  13.00
+AT_V= 12.99
+count =  28
+
+
+key : RESULT = CY : 0.00 
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.17
+DG_V =  13.00
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+AT_V= 12.92
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.90', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.81', 'VYB': '227.74', 'VBR': '227.25', 'WT': '3357.32', 'Genset_HZ': '47.54', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3361.33', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.55', 'Genset_V1': '0.00', 'BB': '8.17', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.45', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': '4.94', 'time': '00:29:25', 'KW1': '0.00', 'KW3': '-3354.77', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3337.80', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+BB =  8.18
+count =  1
+
+
+key : RESULT = WB : -3361.72 
+DG_V =  12.96
+AT_V= 12.99
+count =  2
+
+
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.81', 'VYB': '227.74', 'VBR': '227.25', 'WT': '3357.32', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.92', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.18', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.45', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:29:32', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3337.80', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '12.96', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+key : RESULT = VARR : 0.00 
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.16
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+DG_V =  12.92
+AT_V= 12.91
+count =  5
+
+
+key : RESULT = WH : 424.92 
+count =  6
+
+
+key : RESULT = VYB : 227.66 
+BB =  8.14
+DG_V =  12.99
+count =  7
+
+
+key : RESULT = VBR : 227.22 
+AT_V= 12.95
+count =  8
+
+
+key : RESULT = WT : 3340.30 
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.15
+DG_V =  13.00
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+AT_V= 12.88
+count =  11
+
+
+key : RESULT = WY : 0.00 
+BB =  8.13
+count =  12
+
+
+key : RESULT = VLNA : 75.87 
+DG_V =  12.97
+AT_V= 13.06
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.49 
+BB =  8.15
+count =  15
+
+
+DG_V =  13.03
+key : RESULT = VLLA : 151.63 
+AT_V= 12.90
+count =  16
+
+
+key : RESULT = VB : 227.67 
+count =  17
+
+
+key : RESULT = VAB : 3364.88 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.81', 'VYB': '227.74', 'VBR': '227.25', 'WT': '3357.32', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.45', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:30:33', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3337.80', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '13.03', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.18
+DG_V =  13.05
+count =  18
+
+
+key : RESULT = CB : 14.89 
+AT_V= 13.00
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.17
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+DG_V =  13.04
+AT_V= 12.96
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.15
+count =  23
+
+
+key : RESULT = FREQ : 47.60 
+DG_V =  13.01
+AT_V= 13.00
+count =  24
+
+
+key : RESULT = VAT : 3364.64 
+count =  25
+
+
+key : RESULT = CT : 4.92 
+BB =  8.17
+DG_V =  13.05
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+AT_V= 12.92
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+count =  28
+
+
+key : RESULT = CY : 0.00 
+BB =  8.13
+DG_V =  13.00
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+AT_V= 12.88
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+BB =  8.11
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.89', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '424.92', 'VYB': '227.66', 'VBR': '227.22', 'WT': '3340.30', 'Genset_HZ': '47.60', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3364.88', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.67', 'Genset_V1': '0.00', 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.49', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': '4.92', 'time': '00:31:31', 'KW1': '0.00', 'KW3': '-3361.72', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3364.64', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '13.03', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+DG_V =  13.05
+AT_V= 13.05
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.92', 'VYB': '227.66', 'VBR': '227.22', 'WT': '3340.30', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '13.05', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.11', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.49', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:31:34', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3364.64', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '13.05', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  1
+
+
+key : RESULT = WB : -3355.94 
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.16
+count =  3
+
+
+DG_V =  13.03
+key : RESULT = CR : 0.00 
+AT_V= 12.97
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+count =  5
+
+
+key : RESULT = WH : 425.04 
+BB =  8.16
+DG_V =  12.95
+count =  6
+
+
+key : RESULT = VYB : 227.72 
+AT_V= 12.90
+count =  7
+
+
+key : RESULT = VBR : 227.21 
+BB =  8.15
+count =  8
+
+
+key : RESULT = WT : 3357.83 
+DG_V =  12.91
+AT_V= 12.90
+count =  9
+
+
+key : RESULT = WR : 0.00 
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.15
+count =  11
+
+
+key : RESULT = WY : 0.00 
+DG_V =  12.95
+AT_V= 12.87
+count =  12
+
+
+key : RESULT = VLNA : 75.91 
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+BB =  8.15
+DG_V =  13.09
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.52 
+AT_V= 12.91
+count =  15
+
+
+key : RESULT = VLLA : 151.66 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.92', 'VYB': '227.66', 'VBR': '227.22', 'WT': '3340.30', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.91', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.49', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:32:34', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3364.64', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '13.09', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  16
+
+
+key : RESULT = VB : 227.68 
+BB =  8.17
+DG_V =  13.01
+count =  17
+
+
+key : RESULT = VAB : 3363.84 
+AT_V= 12.94
+count =  18
+
+
+key : RESULT = CB : 14.82 
+BB =  8.13
+count =  19
+
+
+key : RESULT = VR : 0.00 
+DG_V =  13.03
+AT_V= 12.97
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.17
+count =  22
+
+
+DG_V =  12.96
+key : RESULT = VY : 0.00 
+AT_V= 12.86
+count =  23
+
+
+key : RESULT = FREQ : 47.58 
+count =  24
+
+
+key : RESULT = VAT : 3362.23 
+BB =  8.13
+DG_V =  12.96
+count =  25
+
+
+key : RESULT = CT : 4.94 
+AT_V= 12.90
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+BB =  8.15
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+DG_V =  12.96
+AT_V= 12.90
+count =  28
+
+
+key : RESULT = CY : 0.00 
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.10
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+DG_V =  12.97
+AT_V= 12.90
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '424.92', 'VYB': '227.66', 'VBR': '227.22', 'WT': '3340.30', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.10', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.49', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:33:35', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3364.64', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.87', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.82', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '425.04', 'VYB': '227.72', 'VBR': '227.21', 'WT': '3357.83', 'Genset_HZ': '47.58', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3363.84', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.68', 'Genset_V1': '0.00', 'BB': '8.10', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.52', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': '4.94', 'time': '00:33:36', 'KW1': '0.00', 'KW3': '-3355.94', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3362.23', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+count =  1
+
+
+key : RESULT = WB : -3372.36 
+BB =  8.14
+DG_V =  12.92
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+AT_V= 12.95
+count =  3
+
+
+key : RESULT = CR : 0.00 
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.15
+DG_V =  12.99
+count =  5
+
+
+key : RESULT = WH : 425.16 
+AT_V= 12.95
+count =  6
+
+
+key : RESULT = VYB : 227.70 
+BB =  8.12
+count =  7
+
+
+key : RESULT = VBR : 227.22 
+DG_V =  13.10
+AT_V= 12.99
+count =  8
+
+
+key : RESULT = WT : 3358.40 
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.13
+count =  10
+
+
+DG_V =  12.96
+key : RESULT = VARB : 0.00 
+AT_V= 12.91
+count =  11
+
+
+key : RESULT = WY : 0.00 
+count =  12
+
+
+key : RESULT = VLNA : 75.90 
+BB =  8.13
+DG_V =  13.00
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+AT_V= 12.91
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.56 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.04', 'VYB': '227.72', 'VBR': '227.21', 'WT': '3357.83', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.91', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.52', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:34:35', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3362.23', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.17
+count =  15
+
+
+key : RESULT = VLLA : 151.64 
+DG_V =  13.05
+AT_V= 12.97
+count =  16
+
+
+key : RESULT = VB : 227.64 
+count =  17
+
+
+key : RESULT = VAB : 3367.04 
+BB =  8.11
+count =  18
+
+
+key : RESULT = CB : 14.85 
+DG_V =  12.96
+AT_V= 12.90
+count =  19
+
+
+key : RESULT = VR : 0.00 
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+BB =  8.13
+DG_V =  13.00
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+AT_V= 12.91
+count =  22
+
+
+key : RESULT = VY : 0.00 
+count =  23
+
+
+key : RESULT = FREQ : 47.59 
+BB =  8.17
+DG_V =  13.00
+count =  24
+
+
+key : RESULT = VAT : 3366.42 
+AT_V= 12.99
+count =  25
+
+
+key : RESULT = CT : 4.94 
+BB =  8.16
+count =  26
+
+
+key : RESULT = PFA : -1.00 
+DG_V =  12.97
+AT_V= 12.87
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+count =  28
+
+
+key : RESULT = CY : 0.00 
+BB =  8.18
+DG_V =  13.04
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+AT_V= 13.00
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.04', 'VYB': '227.72', 'VBR': '227.21', 'WT': '3357.83', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.87', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.18', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.52', 'VLLA': '151.66', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:35:36', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3362.23', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.91', 'Battery_Voltage': '13.04', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+flag updated ....
+
+key : RESULT = VART : 0.00 
+BB =  8.14
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.85', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '425.16', 'VYB': '227.70', 'VBR': '227.22', 'WT': '3358.40', 'Genset_HZ': '47.59', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3367.04', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.64', 'Genset_V1': '0.00', 'BB': '8.18', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.56', 'VLLA': '151.64', 'Date': '2018-12-20', 'Average_AMPS': '4.94', 'time': '00:35:42', 'KW1': '0.00', 'KW3': '-3372.36', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3366.42', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '13.04', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 763
+
+
+DG_V =  12.97
+count =  1
+
+
+key : RESULT = WB : -3373.58 
+AT_V= 13.04
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.18
+count =  3
+
+
+key : RESULT = CR : 0.00 
+DG_V =  13.00
+AT_V= 12.94
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+count =  5
+
+
+key : RESULT = WH : 425.28 
+BB =  8.15
+count =  6
+
+
+key : RESULT = VYB : 227.77 
+DG_V =  13.01
+AT_V= 12.95
+count =  7
+
+
+key : RESULT = VBR : 227.25 
+count =  8
+
+
+key : RESULT = WT : 3356.62 
+BB =  8.14
+DG_V =  12.97
+count =  9
+
+
+key : RESULT = WR : 0.00 
+AT_V= 13.04
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+count =  11
+
+
+key : RESULT = WY : 0.00 
+BB =  8.13
+DG_V =  13.00
+count =  12
+
+
+key : RESULT = VLNA : 75.90 
+AT_V= 12.96
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.16', 'VYB': '227.70', 'VBR': '227.22', 'WT': '3358.40', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.96', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.13', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.56', 'VLLA': '151.64', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:36:38', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3366.42', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+BB =  8.13
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.59 
+DG_V =  13.01
+AT_V= 12.88
+count =  15
+
+
+key : RESULT = VLLA : 151.67 
+count =  16
+
+
+key : RESULT = VB : 227.68 
+BB =  8.17
+DG_V =  12.97
+count =  17
+
+
+key : RESULT = VAB : 3385.87 
+AT_V= 12.90
+count =  18
+
+
+key : RESULT = CB : 14.87 
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.15
+DG_V =  12.99
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+AT_V= 12.91
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.15
+count =  22
+
+
+key : RESULT = VY : 0.00 
+DG_V =  12.94
+AT_V= 13.00
+count =  23
+
+
+key : RESULT = FREQ : 47.53 
+count =  24
+
+
+key : RESULT = VAT : 3343.13 
+BB =  8.15
+count =  25
+
+
+key : RESULT = CT : 4.94 
+DG_V =  12.96
+AT_V= 12.88
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+BB =  8.16
+DG_V =  12.99
+count =  28
+
+
+key : RESULT = CY : 0.00 
+AT_V= 12.92
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.16', 'VYB': '227.70', 'VBR': '227.22', 'WT': '3358.40', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.92', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.16', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.56', 'VLLA': '151.64', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:37:38', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3366.42', 'PFA': '-1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '12.99', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 721
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+BB =  8.17
+DG_V =  13.00
+flag updated ....
+
+key : RESULT = VART : 0.00 
+AT_V= 12.95
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.87', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '425.28', 'VYB': '227.77', 'VBR': '227.25', 'WT': '3356.62', 'Genset_HZ': '47.53', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3385.87', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.68', 'Genset_V1': '0.00', 'BB': '8.16', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.59', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': '4.94', 'time': '00:37:48', 'KW1': '0.00', 'KW3': '-3373.58', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3343.13', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '12.99', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+count =  1
+
+
+key : RESULT = WB : -3370.43 
+BB =  8.13
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+DG_V =  13.00
+AT_V= 12.88
+count =  3
+
+
+key : RESULT = CR : 0.00 
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.17
+DG_V =  13.04
+count =  5
+
+
+key : RESULT = WH : 425.40 
+AT_V= 12.87
+count =  6
+
+
+key : RESULT = VYB : 227.77 
+count =  7
+
+
+key : RESULT = VBR : 227.25 
+BB =  8.16
+DG_V =  12.94
+count =  8
+
+
+key : RESULT = WT : 3366.88 
+AT_V= 12.95
+count =  9
+
+
+key : RESULT = WR : 0.00 
+BB =  8.12
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+DG_V =  13.09
+AT_V= 12.91
+count =  11
+
+
+key : RESULT = WY : 0.00 
+count =  12
+
+
+key : RESULT = VLNA : 75.90 
+BB =  8.17
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.28', 'VYB': '227.77', 'VBR': '227.25', 'WT': '3356.62', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.91', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.12', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.59', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:38:39', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3343.13', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '13.09', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+DG_V =  13.05
+AT_V= 12.94
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.63 
+count =  15
+
+
+key : RESULT = VLLA : 151.67 
+BB =  8.15
+DG_V =  12.99
+count =  16
+
+
+key : RESULT = VB : 227.71 
+AT_V= 13.01
+count =  17
+
+
+key : RESULT = VAB : 3370.57 
+count =  18
+
+
+key : RESULT = CB : 14.98 
+BB =  8.17
+DG_V =  13.03
+count =  19
+
+
+key : RESULT = VR : 0.00 
+AT_V= 13.00
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+BB =  8.16
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+DG_V =  12.92
+AT_V= 12.99
+count =  22
+
+
+key : RESULT = VY : 0.00 
+count =  23
+
+
+key : RESULT = FREQ : 47.56 
+BB =  8.15
+DG_V =  13.00
+count =  24
+
+
+key : RESULT = VAT : 3364.62 
+AT_V= 12.91
+count =  25
+
+
+key : RESULT = CT : 4.94 
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+BB =  8.16
+DG_V =  12.95
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+AT_V= 13.08
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.28', 'VYB': '227.77', 'VBR': '227.25', 'WT': '3356.62', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '13.08', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.16', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.59', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:39:40', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3343.13', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '12.95', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  28
+
+
+key : RESULT = CY : 0.00 
+BB =  8.21
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+DG_V =  13.01
+AT_V= 13.00
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.98', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '425.40', 'VYB': '227.77', 'VBR': '227.25', 'WT': '3366.88', 'Genset_HZ': '47.56', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3370.57', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.71', 'Genset_V1': '0.00', 'BB': '8.16', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.63', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': '4.94', 'time': '00:39:54', 'KW1': '0.00', 'KW3': '-3370.43', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3364.62', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '12.95', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+BB =  8.16
+count =  1
+
+
+key : RESULT = WB : -3377.23 
+DG_V =  13.00
+AT_V= 12.94
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+count =  3
+
+
+key : RESULT = CR : 0.00 
+BB =  8.12
+DG_V =  12.99
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+AT_V= 13.00
+count =  5
+
+
+key : RESULT = WH : 425.51 
+count =  6
+
+
+key : RESULT = VYB : 227.75 
+BB =  8.26
+DG_V =  12.96
+count =  7
+
+
+key : RESULT = VBR : 227.26 
+AT_V= 13.00
+count =  8
+
+
+key : RESULT = WT : 3367.07 
+BB =  8.14
+count =  9
+
+
+key : RESULT = WR : 0.00 
+DG_V =  12.97
+AT_V= 12.87
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+count =  11
+
+
+key : RESULT = WY : 0.00 
+BB =  8.16
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.40', 'VYB': '227.77', 'VBR': '227.25', 'WT': '3366.88', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.87', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.14', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.63', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:40:40', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3364.62', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '12.97', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+DG_V =  13.04
+count =  12
+
+
+key : RESULT = VLNA : 75.88 
+AT_V= 13.01
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.66 
+BB =  8.13
+DG_V =  13.01
+count =  15
+
+
+key : RESULT = VLLA : 151.57 
+AT_V= 13.01
+count =  16
+
+
+key : RESULT = VB : 227.51 
+BB =  8.15
+count =  17
+
+
+key : RESULT = VAB : 3360.65 
+DG_V =  13.10
+AT_V= 12.90
+count =  18
+
+
+key : RESULT = CB : 14.89 
+count =  19
+
+
+key : RESULT = VR : 0.00 
+BB =  8.11
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+DG_V =  12.94
+AT_V= 12.92
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+count =  22
+
+
+key : RESULT = VY : 0.00 
+BB =  8.17
+DG_V =  13.04
+count =  23
+
+
+key : RESULT = FREQ : 47.49 
+AT_V= 12.95
+count =  24
+
+
+key : RESULT = VAT : 3370.30 
+count =  25
+
+
+key : RESULT = CT : 4.95 
+BB =  8.16
+DG_V =  13.00
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+AT_V= 12.90
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.40', 'VYB': '227.77', 'VBR': '227.25', 'WT': '3366.88', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.16', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.63', 'VLLA': '151.67', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:41:41', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3364.62', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.90', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+BB =  8.15
+count =  28
+
+
+key : RESULT = CY : 0.00 
+DG_V =  12.97
+AT_V= 12.96
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+BB =  8.14
+DG_V =  13.04
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.89', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '425.51', 'VYB': '227.75', 'VBR': '227.26', 'WT': '3367.07', 'Genset_HZ': '47.49', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3360.65', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.51', 'Genset_V1': '0.00', 'BB': '8.16', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.66', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': '4.95', 'time': '00:42:00', 'KW1': '0.00', 'KW3': '-3377.23', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3370.30', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+AT_V= 13.01
+count =  1
+
+
+key : RESULT = WB : -3372.66 
+count =  2
+
+
+key : RESULT = VARR : 0.00 
+BB =  8.13
+DG_V =  13.00
+count =  3
+
+
+key : RESULT = CR : 0.00 
+AT_V= 12.87
+count =  4
+
+
+key : RESULT = VARY : 0.00 
+BB =  8.14
+count =  5
+
+
+key : RESULT = WH : 425.63 
+DG_V =  12.96
+AT_V= 12.88
+count =  6
+
+
+key : RESULT = VYB : 227.74 
+count =  7
+
+
+key : RESULT = VBR : 227.26 
+BB =  8.12
+count =  8
+
+
+key : RESULT = WT : 3380.59 
+DG_V =  13.01
+AT_V= 12.97
+count =  9
+
+
+key : RESULT = WR : 0.00 
+count =  10
+
+
+key : RESULT = VARB : 0.00 
+BB =  8.15
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.51', 'VYB': '227.75', 'VBR': '227.26', 'WT': '3367.07', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.97', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.15', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.66', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:42:42', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3370.30', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.01', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+DG_V =  13.05
+count =  11
+
+
+key : RESULT = WY : 0.00 
+AT_V= 12.95
+count =  12
+
+
+key : RESULT = VLNA : 75.89 
+count =  13
+
+
+key : RESULT = VRY : 0.00 
+BB =  8.15
+DG_V =  12.99
+count =  14
+
+
+-------------------LH--------------------
+key : RESULT = LH : 84.70 
+AT_V= 13.10
+count =  15
+
+
+key : RESULT = VLLA : 151.63 
+BB =  8.15
+count =  16
+
+
+key : RESULT = VB : 227.64 
+DG_V =  12.94
+AT_V= 12.95
+count =  17
+
+
+key : RESULT = VAB : 3371.36 
+count =  18
+
+
+key : RESULT = CB : 14.85 
+BB =  8.14
+DG_V =  13.06
+count =  19
+
+
+key : RESULT = VR : 0.00 
+AT_V= 12.94
+count =  20
+
+
+key : RESULT = VAY : 0.00 
+count =  21
+
+
+key : RESULT = VAR : 0.00 
+BB =  8.15
+DG_V =  12.97
+count =  22
+
+
+key : RESULT = VY : 0.00 
+AT_V= 12.99
+count =  23
+
+
+key : RESULT = FREQ : 47.57 
+BB =  8.14
+count =  24
+
+
+key : RESULT = VAT : 3374.26 
+DG_V =  13.00
+AT_V= 12.90
+count =  25
+
+
+key : RESULT = CT : 4.95 
+{'VART': '0.00', 'Amps_I1': None, 'Amps_I2': None, 'Amps_I3': None, 'Power_Factor1': None, 'Power_Factor2': None, 'Power_Factor3': None, 'VARY': '0.00', 'WH': '425.51', 'VYB': '227.75', 'VBR': '227.26', 'WT': '3367.07', 'Genset_HZ': None, 'VARB': '0.00', 'KVA1': None, 'KVA2': None, 'KVA3': None, 'AT_V': '12.90', 'Genset_V2': None, 'Genset_V3': None, 'Genset_V1': None, 'BB': '8.14', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.66', 'VLLA': '151.57', 'Date': '2018-12-20', 'Average_AMPS': None, 'time': '00:43:42', 'KW1': None, 'KW3': None, 'KW2': None, 'ET': '01', 'ID': 'b827ebf18950', 'VAT': '3370.30', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.88', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 720
+
+
+DG status ==> 0
+EB status ==> 1
+SS status ==> 0
+count =  26
+
+
+key : RESULT = PFA : 1.00 
+BB =  8.18
+count =  27
+
+
+key : RESULT = PFB : 1.00 
+DG_V =  13.01
+AT_V= 12.91
+count =  28
+
+
+key : RESULT = CY : 0.00 
+count =  29
+
+
+key : RESULT = PFR : 0.00 
+BB =  8.15
+DG_V =  13.04
+count =  30
+
+
+key : RESULT = PFY : 0.00 
+AT_V= 12.95
+flag updated ....
+
+key : RESULT = VART : 0.00 
+{'VART': '0.00', 'Amps_I1': '0.00', 'Amps_I2': '0.00', 'Amps_I3': '14.85', 'Power_Factor1': '0.00', 'Power_Factor2': '0.00', 'Power_Factor3': '1.00', 'VARY': '0.00', 'WH': '425.63', 'VYB': '227.74', 'VBR': '227.26', 'WT': '3380.59', 'Genset_HZ': '47.57', 'VARB': '0.00', 'KVA1': '0.00', 'KVA2': '0.00', 'KVA3': '3371.36', 'AT_V': None, 'Genset_V2': '0.00', 'Genset_V3': '227.64', 'Genset_V1': '0.00', 'BB': '8.14', 'FL': None, 'VRY': '0.00', 'VARR': '0.00', 'LH': '84.70', 'VLLA': '151.63', 'Date': '2018-12-20', 'Average_AMPS': '4.95', 'time': '00:44:06', 'KW1': '0.00', 'KW3': '-3372.66', 'KW2': '0.00', 'ET': '06', 'ID': 'b827ebf18950', 'VAT': '3374.26', 'PFA': '1.00', 'FF': None, 'SS': 0, 'VLNA': '75.89', 'Battery_Voltage': '13.00', 'DG_AC': 0, 'EB_AC': 1}
+Sent to Server with response--> 762
+
+
+count =  1
+
+
+key : RESULT = WB : -3366.
