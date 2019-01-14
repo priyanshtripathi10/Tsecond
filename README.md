@@ -12,4 +12,13 @@ After opening the required python script insert the location of raw text file in
 
 data = open("myanmar_datalog_2018_12_26.txt", "r").read()   
 
-This will generate an outfile which will arrange data in csv format
+This will generate an outfile which will arrange data in csv format. After this we will segregate the data based on Event_Type and will make individual CSV files,we can insert path for this in this:
+
+et1.to_csv('INSERT HERE THE PATH DIRECTORY')      
+
+After this it will do the desired operations programmed in it and will produce the required CSV files for the DataFrame devloped and you can insert the path directory where you want it. For eg
+
+bigdata4.to_csv('/home/priyanshtripathi10/Downloads/Tsecond/customer_et4.csv')
+
+
+
