@@ -10,6 +10,6 @@ The data getting generated from SmartDG located at various sites is in the form 
 If the raw data is from the Myanmar site take use of Myanmar_data.py & if the data is getting generated from the TechMahindra site take use of Tech_Mahindra_data.py.
 After opening the required python script insert the location of raw text file in the variable "data":
 
-data = open("igtl_logs_em_till_date.txt", "r").read()   
+data = open("myanmar_datalog_2018_12_26.txt", "r").read()   
 
-After this an outfile will get generated which will arrange data in csv format
+This will generate an outfile which will arrange data in csv format
