@@ -4,4 +4,12 @@ Below is the readme file consisting of the instructions regarding the use of pyt
 
 
 The data getting generated from SmartDG consist of various parameters which are raw in nature and has to be organized in form of Excel Workbook or CSV file to easily read & draw conclusions from it.Below are the python scripts made to tackle the above problem and to automate the whole task.
-The data getting generated from SmartDG located at various sites is in the form of continuous stream of text & characters which is getting stored in the form of text format. If the data getting generated from 
+
+The data getting generated from SmartDG located at various sites is in the form of continuous stream of text & characters which is getting stored in the form of text format for instance if the data is getting generated from the device located in Myanmar location it will be named as myanmar_datalog_2018_12_26.txt and if it is getting generated from TechMahindra it will be named as b827eb6a07fb_28.txt. This data can either be a continuous logs or can be segregiated in accordance with the dates as per the requirnment.
+
+If the raw data is from the Myanmar site take use of Myanmar_data.py & if the data is getting generated from the TechMahindra site take use of Tech_Mahindra_data.py.
+After opening the required python script insert the location of raw text file in the variable "data":
+
+data = open("igtl_logs_em_till_date.txt", "r").read()   
+
+After this an outfile will get generated which will arrange data in csv format
