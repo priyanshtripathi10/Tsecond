@@ -1,6 +1,6 @@
 # Tsecond
 
-Below is the readme file consisting of the instructions regarding the use of python script devloped to perform the data visualization & analysis of the raw data getting generated from SmartDG located at various sites.The code is devloped keeping the data generated from Myanmar site,TechMahindra and Napino as input and can be easily manipulated with the upcoming formats.
+This is the readme file consisting of the instructions regarding the use of python script devloped to perform the data visualization & analysis of the raw data getting generated from SmartDG located at various sites.The code is devloped keeping the data generated from Myanmar site,TechMahindra and Napino as input and can be easily manipulated with the upcoming formats.
 
 
 The data getting generated from SmartDG consist of various parameters which are raw in nature and has to be organized in form of Excel Workbook or CSV file to easily read & draw conclusions from it.Below are the python scripts made to tackle the above problem and to automate the whole task.
@@ -18,7 +18,9 @@ et1.to_csv('INSERT HERE THE PATH DIRECTORY')
 
 After this it will do the desired operations programmed in it and will produce the required CSV files for the DataFrame devloped and you can insert the path directory where you want it. For eg
 
-bigdata4.to_csv('/home/priyanshtripathi10/Downloads/Tsecond/customer_et4.csv')
+bigdata4.to_csv('/INSERT PATH HERE/customer_et4.csv')
+
+In the end we will produce the desired worksheet from the above performed segregations & analysis by means of XLSX WRITER module
 
 
 
