@@ -20,7 +20,9 @@ After this it will do the desired operations programmed in it and will produce t
 
 bigdata4.to_csv('/INSERT PATH HERE/customer_et4.csv')
 
-In the end we will produce the desired worksheet from the above performed segregations & analysis by means of XLSX WRITER module
+In the end we will produce the desired worksheet from the above performed segregations & analysis by means of XLSX WRITER module.
+
+For the final excel file generated see grade.xlsx file
 
 
 
